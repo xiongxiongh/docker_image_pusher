@@ -16,7 +16,6 @@ jxxghp/moviepilot
 mariadb
 80x86/qbittorrent
 whyour/qinglong
-vetex
 chisbread/transmission:latest
 lscr.io/linuxserver/transmission
 linuxserver/transmission
