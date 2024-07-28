@@ -9,7 +9,7 @@ nyanmisaka/jellyfin
 yipengfei/movie-robot
 vaultwarden/server
 steveji/clash-with-dashboard:latest
-
+laoyutang/clash-and-dashboard
 80x86/filebrowser:amd64
 iyuucn/iyuuplus:latest
 6053537/portainer-ce
