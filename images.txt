@@ -22,4 +22,4 @@ linuxserver/transmission
 amilys/embyserver:latest
 lscr.io/home-assistant/home-assistant:stable
 Sitoi/dailycheckin
-a76yyyy/qiando
+a76yyyy/qiandao
