@@ -25,5 +25,6 @@ amilys/embyserver:latest
 homeassistant/home-assistant
 mysql
 lscr.io/home-assistant/home-assistant:stable
-sitoi/dailycheckin
+steveji/clash-with-dashboard:latest
 a76yyyy/qiandao
+sitoi/dailycheckin
