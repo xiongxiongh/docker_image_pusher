@@ -20,6 +20,8 @@ chisbread/transmission:latest
 lscr.io/linuxserver/transmission
 linuxserver/transmission
 amilys/embyserver:latest
+homeassistant/home-assistant
+mysql
 lscr.io/home-assistant/home-assistant:stable
 Sitoi/dailycheckin
 a76yyyy/qiandao
