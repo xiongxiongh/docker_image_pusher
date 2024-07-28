@@ -8,6 +8,8 @@ gdy666/lucky
 nyanmisaka/jellyfin
 yipengfei/movie-robot
 vaultwarden/server
+steveji/clash-with-dashboard:latest
+
 80x86/filebrowser:amd64
 iyuucn/iyuuplus:latest
 6053537/portainer-ce
